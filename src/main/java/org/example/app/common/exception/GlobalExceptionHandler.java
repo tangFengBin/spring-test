@@ -1,7 +1,6 @@
 package org.example.app.common.exception;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.app.common.exception.custom.HttpRequestError;
 import org.example.app.common.res.ResponseBody;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
