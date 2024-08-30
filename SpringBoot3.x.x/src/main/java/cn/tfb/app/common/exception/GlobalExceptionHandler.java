@@ -1,4 +1,4 @@
-package cn.tfb.common.exception;
+package cn.tfb.app.common.exception;
 
 import lombok.extern.slf4j.Slf4j;
 import org.example.app.common.res.ResponseBody;

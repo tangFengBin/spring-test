@@ -6,13 +6,13 @@
         <groupId>org.example</groupId>
         <artifactId>springBoot</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+<!--        <relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
     </parent>
     <groupId>cn.tfb</groupId>
-    <artifactId>SpringBoot3</artifactId>
+    <artifactId>SpringBoot3.x.x</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBoot3</name>
-    <description>SpringBoot3</description>
+    <name>SpringBoot3.x.x</name>
+    <description>SpringBoot3.x.x</description>
     <url/>
     <licenses>
         <license/>
