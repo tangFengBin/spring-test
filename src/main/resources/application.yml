@@ -1,9 +1,0 @@
-server:
-  port: 9527
-  tomcat:
-    threads:
-      max: 20
-    accesslog:
-      prefix: app
-  servlet:
-    context-path: /app

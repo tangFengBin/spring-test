@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96c13901-2949-4538-b2f7-0c32886c04d0" name="更改" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/common/config/pack-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +43,16 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/tangFengBin/spring-test.git",
     "accountId": "a147acad-4ff5-478a-82ab-92d039c69c81"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "tangFengBin",
+    "repository": "spring-test"
   }
 }]]></component>
   <component name="MavenImportPreferences">
@@ -76,7 +84,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Application.executor": "Run",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "develop 上的 #1",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -128,7 +136,7 @@
       <updated>1710927779690</updated>
       <workItem from="1710927781202" duration="2902000" />
       <workItem from="1710987114714" duration="1725000" />
-      <workItem from="1724741161342" duration="9834000" />
+      <workItem from="1724741161342" duration="10741000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -154,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724910082520</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1724913751148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724913751148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
