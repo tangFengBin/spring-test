@@ -4,23 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96c13901-2949-4538-b2f7-0c32886c04d0" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/common/exception/ExceptionBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/common/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/common/exception/custom/HttpRequestError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/common/res/ResponseBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controller/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controller/ControllerErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+    <list default="true" id="96c13901-2949-4538-b2f7-0c32886c04d0" name="更改" comment="init">
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/aop/RequestInfoAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/config/pack-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/exception/ExceptionBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/exception/custom/HttpRequestError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/common/res/ResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/controller/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/cn/tfb/app/controller/ControllerErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/main/resources/static/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot3.x.x/src/test/java/cn/tfb/springboot3/SpringBoot3ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/aop/RequestInfoAop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/config/pack-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/exception/ExceptionBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/exception/custom/HttpRequestError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/common/res/ResponseBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/controller/AppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb/controller/ControllerErrorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/main/resources/static/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot3/src/test/java/cn/tfb/springboot3/SpringBoot3ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +58,41 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;assignee&quot;: &quot;tangFengBin&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;MERGED&quot;,
+    &quot;assignee&quot;: &quot;tangFengBin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tangFengBin/spring-test.git&quot;,
+    &quot;accountId&quot;: &quot;a147acad-4ff5-478a-82ab-92d039c69c81&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;tangFengBin&quot;,
+    &quot;repository&quot;: &quot;spring-test&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -58,6 +114,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.springBoot [clean].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -65,22 +122,47 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Application.executor": "Debug",
-    "git-widget-placeholder": "master",
+    "Spring Boot.Application (1).executor": "Run",
+    "Spring Boot.Application.executor": "Run",
+    "git-widget-placeholder": "develop 上的 #1",
+    "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tangfengbin/IdeaProjects/springBoot/SpringBoot3/src/main/java/cn/tfb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.254023",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SpringBoot3/src/main/java/cn/tfb" />
+      <recent name="$PROJECT_DIR$/SpringBoot3/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SpringBoot3/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (1)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot3.x.x" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tfb.app.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tfb.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springBoot3" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.app.Application" />
@@ -96,6 +178,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Application (1)" />
         <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
@@ -103,8 +186,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -118,19 +201,97 @@
       <updated>1710927779690</updated>
       <workItem from="1710927781202" duration="2902000" />
       <workItem from="1710987114714" duration="1725000" />
-      <workItem from="1724741161342" duration="2423000" />
+      <workItem from="1724741161342" duration="10741000" />
+      <workItem from="1724984769714" duration="704000" />
+      <workItem from="1724987287827" duration="968000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1724743831319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724743831320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1724744334072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724744334073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1724910082520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724910082520</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1724913751148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724913751148</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <option name="closed" value="true" />
+      <created>1724985411833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724985411833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <option name="closed" value="true" />
+      <created>1724985475876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724985475876</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/app/common/exception/GlobalExceptionHandler.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/SpringBoot3.x.x/src/main/java/app/common/exception/GlobalExceptionHandler.java</url>
+          <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
